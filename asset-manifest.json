@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Projeto-LerCC/static/css/main.2ac6e9cc.chunk.css",
-    "main.js": "/Projeto-LerCC/static/js/main.1c25e647.chunk.js",
-    "main.js.map": "/Projeto-LerCC/static/js/main.1c25e647.chunk.js.map",
-    "runtime-main.js": "/Projeto-LerCC/static/js/runtime-main.c1353995.js",
-    "runtime-main.js.map": "/Projeto-LerCC/static/js/runtime-main.c1353995.js.map",
-    "static/css/2.88544d5a.chunk.css": "/Projeto-LerCC/static/css/2.88544d5a.chunk.css",
-    "static/js/2.1b4f2f15.chunk.js": "/Projeto-LerCC/static/js/2.1b4f2f15.chunk.js",
-    "static/js/2.1b4f2f15.chunk.js.map": "/Projeto-LerCC/static/js/2.1b4f2f15.chunk.js.map",
-    "static/js/3.b55035fa.chunk.js": "/Projeto-LerCC/static/js/3.b55035fa.chunk.js",
-    "static/js/3.b55035fa.chunk.js.map": "/Projeto-LerCC/static/js/3.b55035fa.chunk.js.map",
-    "index.html": "/Projeto-LerCC/index.html",
-    "static/css/2.88544d5a.chunk.css.map": "/Projeto-LerCC/static/css/2.88544d5a.chunk.css.map",
-    "static/css/main.2ac6e9cc.chunk.css.map": "/Projeto-LerCC/static/css/main.2ac6e9cc.chunk.css.map",
-    "static/js/2.1b4f2f15.chunk.js.LICENSE.txt": "/Projeto-LerCC/static/js/2.1b4f2f15.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/Projeto-LerCC/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/logo-cc-footer.ef8f9fcf.png": "/Projeto-LerCC/static/media/logo-cc-footer.ef8f9fcf.png"
+    "main.css": "/Github/static/css/main.2ac6e9cc.chunk.css",
+    "main.js": "/Github/static/js/main.7e6d2cc0.chunk.js",
+    "main.js.map": "/Github/static/js/main.7e6d2cc0.chunk.js.map",
+    "runtime-main.js": "/Github/static/js/runtime-main.dc80e027.js",
+    "runtime-main.js.map": "/Github/static/js/runtime-main.dc80e027.js.map",
+    "static/css/2.2a6173e8.chunk.css": "/Github/static/css/2.2a6173e8.chunk.css",
+    "static/js/2.1b4f2f15.chunk.js": "/Github/static/js/2.1b4f2f15.chunk.js",
+    "static/js/2.1b4f2f15.chunk.js.map": "/Github/static/js/2.1b4f2f15.chunk.js.map",
+    "static/js/3.b55035fa.chunk.js": "/Github/static/js/3.b55035fa.chunk.js",
+    "static/js/3.b55035fa.chunk.js.map": "/Github/static/js/3.b55035fa.chunk.js.map",
+    "index.html": "/Github/index.html",
+    "static/css/2.2a6173e8.chunk.css.map": "/Github/static/css/2.2a6173e8.chunk.css.map",
+    "static/css/main.2ac6e9cc.chunk.css.map": "/Github/static/css/main.2ac6e9cc.chunk.css.map",
+    "static/js/2.1b4f2f15.chunk.js.LICENSE.txt": "/Github/static/js/2.1b4f2f15.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Github/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo-cc-footer.ef8f9fcf.png": "/Github/static/media/logo-cc-footer.ef8f9fcf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1353995.js",
-    "static/css/2.88544d5a.chunk.css",
+    "static/js/runtime-main.dc80e027.js",
+    "static/css/2.2a6173e8.chunk.css",
     "static/js/2.1b4f2f15.chunk.js",
     "static/css/main.2ac6e9cc.chunk.css",
-    "static/js/main.1c25e647.chunk.js"
+    "static/js/main.7e6d2cc0.chunk.js"
   ]
 }
