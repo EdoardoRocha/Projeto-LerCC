@@ -1,9 +1,6 @@
 
 import React from "react";
 import {Main} from "../template/Main";
-import Logo1 from '../../Assets/imgs/PauloVenturelli.jpg'
-import Logo2 from '../../Assets/imgs/PauloVenturelli(2).jpg'
-import Logo3 from '../../Assets/imgs/PauloVenturelli(3).jpg'
 import './topicTwo.css'
 
 export function topicTwo(props) {
