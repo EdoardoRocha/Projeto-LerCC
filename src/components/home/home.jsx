@@ -5,7 +5,7 @@ import Logo from '../../Assets/imgs/AnjoRouco.jpg'
 import LogoAutor from '../../Assets/imgs/Autor.jpg'
 
 export function Home(props) {
-return <Main icon="home" title="Apresentação semestral" subtitle="Apresentação do Ler CC" >
+return <Main icon="home" title="Apresentação semestral" subtitle="Apresentação do Livro anjo rouco" >
     <div className="display-4" id="titulo">Bem vindos!!</div>
     <hr />
     <p className="mb-0">Equipe do trabalho:</p>
