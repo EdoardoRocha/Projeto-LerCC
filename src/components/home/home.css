@@ -9,3 +9,53 @@ div#titulo {
     flex-direction: column;
     align-items: center;
 }
+
+
+.template {
+    display: inline-block;
+    margin: 0 130px;
+    width: 23%;
+}
+
+h4 {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+h4 a {
+    text-decoration: none;
+    color: dodgerblue;
+
+}
+h4 a:hover {
+    font-size: 1.1em;
+    transition: 320ms;
+}
+
+div#sinopse > p {
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+@media(max-width: 1267px) {
+     .template {
+         width: 25%;
+         margin: 0 23px;
+     }
+     
+     h4 > a {
+         font-size: 1.1em;
+         font-weight: normal;
+     }
+
+     h4 {
+        font-size: 1.1em;
+        font-weight: normal;
+     }
+
+     h4 > a:hover {
+         transition: 320ms;
+         font-size: 1.3em;
+     }
+     
+}
